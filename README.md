@@ -4,12 +4,6 @@ This project was created as an example app to using React Native with Managed Ex
 
 Managed Expo v0.39
 
-### Demo
-
-[Demo on Expo Client](https://expo.io/@cameronmoreau/matched)
-
-or type `exp://exp.host/@cameronmoreau/matched`
-
 ### Screenshots
 
 <img src="screenshots/explore.png" width="250" alt="Explore" />
