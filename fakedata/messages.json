@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "user": 2,
+    "messages": [
+      {
+        "text": "🙃",
+        "user": 1337
+      },
+      {
+        "text": "No",
+        "user": 2
+      },
+      {
+        "text": "Hey, when you hve a headache, do you take an Advil or Allie-ve?",
+        "user": 1337
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "user": 1,
+    "messages": [
+      {
+        "text": "Hey, visit http://virus.com/exe to chat",
+        "user": 1
+      },
+      {
+        "text": "Hi",
+        "user": 1337
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "user": 3,
+    "messages": [
+      {
+        "text": "Shelby has unmatched with you",
+        "user": 3
+      },
+      {
+        "text": "Date me pls",
+        "user": 1337
+      }
+    ]
+  }
+]
